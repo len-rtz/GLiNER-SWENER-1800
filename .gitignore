@@ -4,4 +4,4 @@
 *.safetensors
 *.bin
 /venv
-.venv/
+.venv/venv311/
