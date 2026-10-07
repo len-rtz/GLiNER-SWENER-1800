@@ -3,4 +3,4 @@
 *.ckpt
 *.safetensors
 *.bin
-*.venv
+/venv311
