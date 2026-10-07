@@ -3,3 +3,4 @@
 *.ckpt
 *.safetensors
 *.bin
+*.venv
